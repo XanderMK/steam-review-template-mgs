@@ -3,7 +3,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://vojtastruhar.github.io/",
-  base: "/steam-review-template",
+  site: "https://xandermk.github.io/",
+  base: "/steam-review-template-mgs",
   integrations: [tailwind()],
 });
